@@ -1,0 +1,5 @@
+LogisticRegression [Accuracy] = 0.922515
+DecisionTreeClassifier [Accuracy] = 0.952339
+RandomForestClassifier [Accuracy] = 0.952339
+GBTClassifier [Accuracy] = 0.952339
+

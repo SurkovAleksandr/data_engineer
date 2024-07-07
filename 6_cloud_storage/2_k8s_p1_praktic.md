@@ -24,7 +24,7 @@
   ```
 - Скопировать файл конфигурации на ВМ
   ```shell
-  scp /home/u-user/IdeaProjects/education/data_engineer/data_engineer/5_cloud_storage/kubernetes-cluster-5599_kubeconfig.yaml ubuntu@212.111.84.26:~/kubernetes-cluster-5599_kubeconfig.yaml
+  scp /home/u-user/IdeaProjects/education/data_engineer/data_engineer/6_cloud_storage/kubernetes-cluster-5599_kubeconfig.yaml ubuntu@212.111.84.26:~/kubernetes-cluster-5599_kubeconfig.yaml
   ```
 - задали KUBECONFIG
   ```shell

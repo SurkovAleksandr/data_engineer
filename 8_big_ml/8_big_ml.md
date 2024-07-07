@@ -1,0 +1,3 @@
+- Материалы по модулю [BIG ML](https://lab.karpov.courses/learning/355/module/3437/lesson/30464/85646/401537/)
+- [Пример KafkaStreaming с видео](https://github.com/AlexKbit/videostream?tab=readme-ov-file)
+- [Как надо было реализовть практику 6](https://lab.karpov.courses/learning/355/module/3437/lesson/30467/85657/401566/)

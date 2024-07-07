@@ -1,0 +1,1 @@
+пример взят [отсюда](https://lab.karpov.courses/learning/355/module/3437/lesson/30465/85649/401543/)

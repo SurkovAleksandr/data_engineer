@@ -1,1 +1,0 @@
-- [Аддитивные факты, Числовые меры интенсивности (Numerical Measures of Intensity)](https://lab.karpov.courses/learning/355/module/3434/lesson/30432/85551/401113/)
